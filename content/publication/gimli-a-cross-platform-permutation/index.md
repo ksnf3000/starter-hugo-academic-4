@@ -23,8 +23,7 @@ abstract: This paper presents Gimli, a 384-bit permutation designed to achieve
   side-channel protection, and ASICs with side-channel protection.
 draft: false
 featured: true
-tags:
-  - "#gimli;#lw;#crypto"
+tags: []
 image:
   filename: featured
   focal_point: Smart
