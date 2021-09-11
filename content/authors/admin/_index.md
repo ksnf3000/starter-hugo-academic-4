@@ -23,6 +23,8 @@ social:
 organizations:
   - name: Université catholique de Louvain, Belgium
     url: https://uclouvain.be/en/research-institutes/icteam
+  - name: Technology Innovation Institute
+    url: http://cryptography.tii.ae/
 education:
   courses:
     - course: PhD in Electrical Engineering
