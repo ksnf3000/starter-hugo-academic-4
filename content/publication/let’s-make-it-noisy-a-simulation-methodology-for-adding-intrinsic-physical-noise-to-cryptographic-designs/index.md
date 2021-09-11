@@ -12,7 +12,7 @@ doi: 10.1109/PRIME.2018.8430315
 publication: 2018 14th Conference on Ph.D. Research in Microelectronics and
   Electronics (PRIME)
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
