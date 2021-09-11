@@ -1,7 +1,7 @@
 ---
 title: "Gimli: a cross-platform permutation"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Daniel J Bernstein
   - Stefan Kölbl
