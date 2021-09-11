@@ -1,6 +1,6 @@
 ---
 title: Kashif Nawaz
-role: Applied Cryptography Researcher, Secure Circuit Designer
+role: Applied Cryptography Researcher
 bio: My research interests include secure circuit design for cryptography, post
   quantum crypto and applied cryptography in general.
 interests: []
