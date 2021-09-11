@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: www.linkedin.com/in/nawazkashif
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Université catholique de Louvain, Belgium
+    url: https://uclouvain.be/en/research-institutes/icteam
 education:
   courses:
     - course: PhD in Electrical Engineering
