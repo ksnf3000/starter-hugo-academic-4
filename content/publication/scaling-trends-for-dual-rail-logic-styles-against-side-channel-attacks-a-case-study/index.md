@@ -11,7 +11,7 @@ authors:
 doi: https://doi.org/10.1007/978-3-319-64647-3_2
 publication: "COSADE 2017: Constructive Side-Channel Analysis and Secure Design pp 19-33"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
