@@ -29,7 +29,7 @@ abstract: Noise in digital circuits has always been minimized to achieve high
   noise (and their security extent) such as transistors-sizing and
   voltage-supply changes.
 draft: false
-featured: false
+featured: true
 tags:
   - "#physicalnoise;#security;#methodology"
 image:
