@@ -17,7 +17,7 @@ abstract: Dual-rail logic circuits are used as an effective countermeasure
   as the Signal-to-Noise ratio (SNR) and the Mutual Information (MI) clarifies
   the potential of such circuits to concretely increase the noise.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
