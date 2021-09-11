@@ -30,8 +30,7 @@ abstract: Noise in digital circuits has always been minimized to achieve high
   voltage-supply changes.
 draft: false
 featured: true
-tags:
-  - "#physicalnoise;#security;#methodology"
+tags: []
 image:
   filename: featured
   focal_point: Smart
