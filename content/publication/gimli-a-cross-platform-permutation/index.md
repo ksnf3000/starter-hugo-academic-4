@@ -22,7 +22,7 @@ abstract: This paper presents Gimli, a 384-bit permutation designed to achieve
   32-bit ARM microcontrollers, 8-bit AVR microcontrollers, FPGAs, ASICs without
   side-channel protection, and ASICs with side-channel protection.
 draft: false
-featured: false
+featured: true
 tags:
   - "#gimli;#lw;#crypto"
 image:
